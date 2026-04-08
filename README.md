@@ -33,6 +33,8 @@
 
 **- 📫 Reach me on raghavthapa7@gmail.com**
 
+**- Software Developer | Work: [raghav-thapa-mg](https://github.com/raghav-thapa-mg)**
+
 <!-- UNCOMMENT THIS FOR DISPLAYING SNAKE GRAPH -->
 <!--
 ![Snake](./svg/snake(dark).svg)
